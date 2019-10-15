@@ -11,6 +11,18 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
+                Section(header: Text("Part 0: Intro")) {
+                    NavigationLink(destination: Example01(), label: {
+                        Text("Example 1 Implicit")
+                    })
+                    NavigationLink(destination: Example02(), label: {
+                        Text("Example 2 Explicit")
+                    })
+                    NavigationLink(destination: Example01b(), label: {
+                        Text("Example 1b Implicit")
+                    })
+                }
+                
                 Section(header: Text("Part 1: Path Animations")) {
                     NavigationLink(destination: Example1(), label: {
                         Text("Example 1 (sides: Double)")

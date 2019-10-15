@@ -19,6 +19,9 @@
 		7769C42523560E900057555E /* Example4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C42423560E900057555E /* Example4.swift */; };
 		7769C42723560F1C0057555E /* Example5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C42623560F1C0057555E /* Example5.swift */; };
 		7769C42923560F490057555E /* Example6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C42823560F490057555E /* Example6.swift */; };
+		7769C42B2356183A0057555E /* Example_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C42A2356183A0057555E /* Example_01.swift */; };
+		7769C42F23561B9A0057555E /* Example_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C42E23561B9A0057555E /* Example_02.swift */; };
+		7769C431235620FD0057555E /* Example_01b.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C430235620FD0057555E /* Example_01b.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +39,9 @@
 		7769C42423560E900057555E /* Example4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example4.swift; sourceTree = "<group>"; };
 		7769C42623560F1C0057555E /* Example5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example5.swift; sourceTree = "<group>"; };
 		7769C42823560F490057555E /* Example6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example6.swift; sourceTree = "<group>"; };
+		7769C42A2356183A0057555E /* Example_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_01.swift; sourceTree = "<group>"; };
+		7769C42E23561B9A0057555E /* Example_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_02.swift; sourceTree = "<group>"; };
+		7769C430235620FD0057555E /* Example_01b.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_01b.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +87,9 @@
 				7769C42423560E900057555E /* Example4.swift */,
 				7769C42623560F1C0057555E /* Example5.swift */,
 				7769C42823560F490057555E /* Example6.swift */,
+				7769C42A2356183A0057555E /* Example_01.swift */,
+				7769C42E23561B9A0057555E /* Example_02.swift */,
+				7769C430235620FD0057555E /* Example_01b.swift */,
 			);
 			path = Paths;
 			sourceTree = "<group>";
@@ -165,10 +174,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				7769C42523560E900057555E /* Example4.swift in Sources */,
+				7769C42B2356183A0057555E /* Example_01.swift in Sources */,
 				7769C40B235607AB0057555E /* AppDelegate.swift in Sources */,
 				7769C42723560F1C0057555E /* Example5.swift in Sources */,
 				7769C40D235607AB0057555E /* SceneDelegate.swift in Sources */,
 				7769C41F23560CCE0057555E /* Example1.swift in Sources */,
+				7769C431235620FD0057555E /* Example_01b.swift in Sources */,
+				7769C42F23561B9A0057555E /* Example_02.swift in Sources */,
 				7769C42123560E070057555E /* Example2.swift in Sources */,
 				7769C42323560E590057555E /* Example3.swift in Sources */,
 				7769C42923560F490057555E /* Example6.swift in Sources */,
