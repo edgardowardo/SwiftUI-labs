@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7759C3CA235CD6D1004746F7 /* Example7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3C9235CD6D1004746F7 /* Example7.swift */; };
+		7759C3CC235CD6F6004746F7 /* Example8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3CB235CD6F6004746F7 /* Example8.swift */; };
+		7759C3CE235CD723004746F7 /* Example9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3CD235CD723004746F7 /* Example9.swift */; };
+		7759C3D0235CD76E004746F7 /* Example10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3CF235CD76E004746F7 /* Example10.swift */; };
+		7759C3D2235CD79F004746F7 /* Example11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3D1235CD79F004746F7 /* Example11.swift */; };
+		7759C3D4235CD7C0004746F7 /* Example12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3D3235CD7C0004746F7 /* Example12.swift */; };
+		7759C3D6235CD7F3004746F7 /* Example13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3D5235CD7F3004746F7 /* Example13.swift */; };
+		7759C3D8235CD81D004746F7 /* Example14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3D7235CD81D004746F7 /* Example14.swift */; };
+		7759C3DC235CD949004746F7 /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7759C3DB235CD949004746F7 /* MyButton.swift */; };
 		7769C40B235607AB0057555E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C40A235607AB0057555E /* AppDelegate.swift */; };
 		7769C40D235607AB0057555E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C40C235607AB0057555E /* SceneDelegate.swift */; };
 		7769C40F235607AB0057555E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7769C40E235607AB0057555E /* ContentView.swift */; };
@@ -25,6 +34,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7759C3C9235CD6D1004746F7 /* Example7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example7.swift; sourceTree = "<group>"; };
+		7759C3CB235CD6F6004746F7 /* Example8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example8.swift; sourceTree = "<group>"; };
+		7759C3CD235CD723004746F7 /* Example9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example9.swift; sourceTree = "<group>"; };
+		7759C3CF235CD76E004746F7 /* Example10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example10.swift; sourceTree = "<group>"; };
+		7759C3D1235CD79F004746F7 /* Example11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example11.swift; sourceTree = "<group>"; };
+		7759C3D3235CD7C0004746F7 /* Example12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example12.swift; sourceTree = "<group>"; };
+		7759C3D5235CD7F3004746F7 /* Example13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example13.swift; sourceTree = "<group>"; };
+		7759C3D7235CD81D004746F7 /* Example14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example14.swift; sourceTree = "<group>"; };
+		7759C3DB235CD949004746F7 /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 		7769C407235607AB0057555E /* Paths.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Paths.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7769C40A235607AB0057555E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7769C40C235607AB0057555E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +108,15 @@
 				7769C42A2356183A0057555E /* Example_01.swift */,
 				7769C42E23561B9A0057555E /* Example_02.swift */,
 				7769C430235620FD0057555E /* Example_01b.swift */,
+				7759C3C9235CD6D1004746F7 /* Example7.swift */,
+				7759C3CB235CD6F6004746F7 /* Example8.swift */,
+				7759C3CD235CD723004746F7 /* Example9.swift */,
+				7759C3CF235CD76E004746F7 /* Example10.swift */,
+				7759C3D1235CD79F004746F7 /* Example11.swift */,
+				7759C3D3235CD7C0004746F7 /* Example12.swift */,
+				7759C3D5235CD7F3004746F7 /* Example13.swift */,
+				7759C3D7235CD81D004746F7 /* Example14.swift */,
+				7759C3DB235CD949004746F7 /* MyButton.swift */,
 			);
 			path = Paths;
 			sourceTree = "<group>";
@@ -174,17 +201,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				7769C42523560E900057555E /* Example4.swift in Sources */,
+				7759C3CC235CD6F6004746F7 /* Example8.swift in Sources */,
 				7769C42B2356183A0057555E /* Example_01.swift in Sources */,
 				7769C40B235607AB0057555E /* AppDelegate.swift in Sources */,
 				7769C42723560F1C0057555E /* Example5.swift in Sources */,
 				7769C40D235607AB0057555E /* SceneDelegate.swift in Sources */,
+				7759C3DC235CD949004746F7 /* MyButton.swift in Sources */,
 				7769C41F23560CCE0057555E /* Example1.swift in Sources */,
+				7759C3D0235CD76E004746F7 /* Example10.swift in Sources */,
+				7759C3D2235CD79F004746F7 /* Example11.swift in Sources */,
 				7769C431235620FD0057555E /* Example_01b.swift in Sources */,
 				7769C42F23561B9A0057555E /* Example_02.swift in Sources */,
+				7759C3D8235CD81D004746F7 /* Example14.swift in Sources */,
 				7769C42123560E070057555E /* Example2.swift in Sources */,
+				7759C3D6235CD7F3004746F7 /* Example13.swift in Sources */,
 				7769C42323560E590057555E /* Example3.swift in Sources */,
 				7769C42923560F490057555E /* Example6.swift in Sources */,
 				7769C40F235607AB0057555E /* ContentView.swift in Sources */,
+				7759C3D4235CD7C0004746F7 /* Example12.swift in Sources */,
+				7759C3CE235CD723004746F7 /* Example9.swift in Sources */,
+				7759C3CA235CD6D1004746F7 /* Example7.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
