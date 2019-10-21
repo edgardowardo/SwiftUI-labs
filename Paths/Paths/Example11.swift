@@ -71,3 +71,9 @@ struct AnimatableGradient: AnimatableModifier {
         return Color(red: Double(r), green: Double(g), blue: Double(b))
     }
 }
+
+struct Example11_Previews: PreviewProvider {
+    static var previews: some View {
+        Example11()        
+    }
+}
